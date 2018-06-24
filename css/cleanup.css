@@ -7,7 +7,7 @@
   display:none;
 }
 
-#wall .tag-1 + .slick{
+#wall:nth-child(3){
   display:none;
 }
 
