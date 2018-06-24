@@ -10,3 +10,7 @@
 #wall .tag-1 + .slick{
   display:none;
 }
+
+.parent>#tag-5{
+  display:none;
+}
