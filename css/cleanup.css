@@ -18,3 +18,8 @@
 div#wall .parent #tag-5.slick:only-child {
   display:none;
 }
+
+
+div#wall div.parent div:last-child div#tag-6:only-child {
+  display:none;
+}
